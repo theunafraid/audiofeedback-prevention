@@ -1,0 +1,12 @@
+{
+  "name": "audiofeedback-prevention",
+  "version": "1.0.0",
+  "description": "64u_300ms_500e_additional",
+  "main": "./bin/audiofeedback-tflite.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
